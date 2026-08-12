@@ -23,3 +23,5 @@ Identify and briefly describe 5 internal hardware components
 Explain the key operational difference between RAM (volatile) and an SSD (non-volatile storage).
 
 -RAM is fast, temporary working memory that loses all data when the power turns off. An SSD is slower, permanent storage that keeps your files safe even when the computer turns off.
+
+![ My process project flowchart] "C:\Users\Amvn4\slabs_class_activity_1\slabs_homework_day1\Flow chart.png"
